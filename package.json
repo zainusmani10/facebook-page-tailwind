@@ -1,0 +1,24 @@
+{
+  "name": "facebook-page-tailwind",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainusmani10/facebook-page-tailwind.git"
+  },
+  "author": "Zain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainusmani10/facebook-page-tailwind/issues"
+  },
+  "homepage": "https://github.com/zainusmani10/facebook-page-tailwind#readme",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "postcss-cli": "^11.0.0"
+  }
+}
